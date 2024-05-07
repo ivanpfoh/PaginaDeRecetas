@@ -1,2 +1,2 @@
-# odin-recipes
+# recipes
 <p> . </p>
